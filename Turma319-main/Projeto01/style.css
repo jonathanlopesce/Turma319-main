@@ -1,0 +1,64 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-image: url(arquivos/bg.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+
+}
+.h1{
+  font-family: Open Sans;
+  color: gray;
+  font-size: 50px;
+}
+
+span{
+  color: rgb(199, 26, 26);
+}
+
+strong{
+  color: black;
+}
+
+footer {
+  content: normal;
+  display: block;
+  border-top: 01px dashed #f50505;
+  width: 100%;
+  height:20%;
+  margin: auto;
+
+}
+
+section{
+  text-align: end;
+  margin-top: 20px;
+  align-items: end;
+}
+
+.botao-estilizado{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #cf2323;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid #000208;
+  
+}
+.posicionamento{
+  text-align: center;
+  margin-top: 1%;
+  position: relative;
+  justify-content: center;
+  align-items: flex-start;
+  
+}
+
